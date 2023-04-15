@@ -6,11 +6,8 @@
 
 - 🌱 I’m currently learning **Kotlin and Angular**
 
-- 💬 Ask me about **Spring and Reacta**
+- 💬 Ask me about **Spring and React**
 
-- 📫 How to reach me **kaungthantlinn789@gmail.com**
-
-- ⚡ Fun fact **funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
