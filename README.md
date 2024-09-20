@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/113245021/232042353-7a5548b6-8e76-444d-835c-306fc93c80f7.gif">
 
 
-- 🌱 I’m currently learning **Kotlin and Angular**
+- 🌱 I’m currently learning **C# and .Net**
 
 - 💬 Ask me about **Spring and React**
 
