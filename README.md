@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C# and .Net**
 
-- 💬 Ask me about **Spring and React**
+- 💬 Ask me about **React**
 
 
 <h3 align="left">Connect with me:</h3>
